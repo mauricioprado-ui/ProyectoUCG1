@@ -13,3 +13,4 @@ uploaded_files = st.file_uploader(
 for uploaded_file in uploaded_files:
     df = pd.read_csv(uploaded_file)
     st.write(df)
+
