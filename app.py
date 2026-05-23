@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import libreria_funciones as lf
-import libreria_clases as lc
+import librería_clases as lc
 
 st.title("Proyecto final UCG")
 
